@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="versusbump.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vsbr14nbump0000" x="0" y="0" width="733" height="367"/>
+	<SubTexture name="vsbr14nbump0001" x="0" y="0" width="733" height="367"/>
+	<SubTexture name="vsbr14nbump0002" x="733" y="0" width="733" height="367"/>
+	<SubTexture name="vsbr14nbump0003" x="733" y="0" width="733" height="367"/>
+	<SubTexture name="vsbr14nbump0004" x="0" y="367" width="733" height="367"/>
+	<SubTexture name="vsbr14nbump0005" x="0" y="367" width="733" height="367"/>
+	<SubTexture name="vsbr14nbump0006" x="733" y="367" width="733" height="367"/>
+	<SubTexture name="vsbr14nbump0007" x="733" y="367" width="733" height="367"/>
+	<SubTexture name="vsbr14nbump0008" x="0" y="734" width="733" height="367"/>
+	<SubTexture name="vsbr14nbump0009" x="0" y="734" width="733" height="367"/>
+	<SubTexture name="vsbr14nbump0010" x="0" y="734" width="733" height="367"/>
+	<SubTexture name="vsbr14nbump0011" x="0" y="734" width="733" height="367"/>
+</TextureAtlas>
